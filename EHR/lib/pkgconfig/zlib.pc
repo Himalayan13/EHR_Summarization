@@ -1,0 +1,13 @@
+prefix=/Users/himalayan_13/Desktop/CodeDump/EHR_Summarization/EHR
+exec_prefix=/Users/himalayan_13/Desktop/CodeDump/EHR_Summarization/EHR
+libdir=/Users/himalayan_13/Desktop/CodeDump/EHR_Summarization/EHR/lib
+sharedlibdir=/Users/himalayan_13/Desktop/CodeDump/EHR_Summarization/EHR/lib
+includedir=/Users/himalayan_13/Desktop/CodeDump/EHR_Summarization/EHR/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

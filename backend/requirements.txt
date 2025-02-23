@@ -1,0 +1,9 @@
+# flask
+# fastapi
+pytesseract
+pdfplumber
+# transformers
+# torch
+# spacy
+# scispacy
+# tqdm

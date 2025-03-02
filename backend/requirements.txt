@@ -1,9 +1,15 @@
-# flask
-# fastapi
+# OCR Dependencies
 pytesseract
 pdfplumber
-# transformers
-# torch
-# spacy
-# scispacy
-# tqdm
+opencv-python
+pillow
+
+# NLP & NER Dependencies
+spacy
+scispacy
+transformers
+torch
+https://s3.amazonaws.com/med7/med7_trf.tar.gz  # Med7 for medical NER(Future work requirement)
+
+# Summarization (for next phase)
+sentencepiece

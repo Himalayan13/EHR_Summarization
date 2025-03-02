@@ -37,8 +37,8 @@ The **frontend is built using Streamlit**, while the backend is powered by **Fla
 
 ### **1️⃣ Clone the Repository**
 ```bash
- git clone https://github.com/your-repo/ehr-summarization.git
- cd ehr-summarization
+ git clone https://github.com/Himalayan13/EHR_Summarization.git
+ cd EHR_Summarization
 ```
 
 ### **2️⃣ Install Dependencies**

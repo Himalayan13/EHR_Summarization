@@ -53,7 +53,7 @@ The **frontend is built using Streamlit**, while the backend is powered by **Fla
 
 ### **4️⃣ Start the Frontend (Streamlit App)**
 ```bash
- streamlit run frontend.py
+ streamlit run main.py
 ```
 
 ---

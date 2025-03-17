@@ -82,7 +82,8 @@ To evaluate the quality of summarization, we used:
 
 ## 🎯 Contributors
 - **Himnish A** - AI & Backend Development
-- **Aadya Chopra, Shaurya Rathore, Mayank Singh** - Frontend & API Integration
+- **Shaurya Rathore** - Frontend Development
+- **Aadya Chopra, Mayank Singh** - API Integration
 
 ---
 

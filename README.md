@@ -29,7 +29,7 @@ The **frontend is built using Streamlit**, while the backend is powered by **Fla
 - **NLTK / SpaCy** - Text preprocessing
 
 ### **Frontend**
-- **Streamlit** - Interactive UI for uploading files and displaying summaries
+- **Streamlit** - Interactive UI for uploading files and displaying summaries.
 
 ---
 
